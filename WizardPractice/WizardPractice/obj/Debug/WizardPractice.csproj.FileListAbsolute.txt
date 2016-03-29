@@ -1,0 +1,5 @@
+D:\Practice Work\WizardPractice\WizardPractice\bin\WizardPractice.dll
+D:\Practice Work\WizardPractice\WizardPractice\bin\WizardPractice.pdb
+D:\Practice Work\WizardPractice\WizardPractice\obj\Debug\WizardPractice.dll
+D:\Practice Work\WizardPractice\WizardPractice\obj\Debug\WizardPractice.pdb
+D:\Practice Work\WizardPractice\WizardPractice\obj\Debug\WizardPractice.csprojResolveAssemblyReference.cache
